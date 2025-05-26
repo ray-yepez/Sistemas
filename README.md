@@ -19,7 +19,7 @@ I Informe
 
 II Informe
 - [X] Descripción del área de estudio
-- [ ] Representación de procesos del área
+- [X] Representación de procesos del área
 - [ ] Descripción del problema
 - [X] Diagramas de Ishikawa
 - [X] Descripción de la solución
